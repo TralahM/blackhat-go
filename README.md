@@ -1,9 +1,18 @@
 # Blackhat Go
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![Organization](https://img.shields.io/badge/Org-TralahTek-blue.svg)](https://github.com/TralahTek)
+[![made-with-GO](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](https://www.python.org/)
+[![HitCount](http://hits.dwyl.io/TralahM/blackhat-go.svg)](http://dwyl.io/TralahM/blackhat-go)
+
 We are hackers and coders - in that order.
 
 This means that, as hackers, we put a premium on function over elegance as time is always scarce.
 
 When you need to quickly create a solution to a problem, style concerns come secondary.
+
+[![TralahM](https://img.shields.io/badge/Engineer-TralahM-blue.svg?style=for-the-badge)](https://github.com/TralahM)
+[![TralahM](https://img.shields.io/badge/Maintainer-TralahM-green.svg?style=for-the-badge)](https://github.com/TralahM)
+
 
 ## Why use Go for Hacking?
 Prior to Go, you could prioritize ease of use by using dynamically typed languages-such as Python, Ruby or PHP-at the expense of performance and safety.
@@ -28,7 +37,7 @@ Many of the language's features are particularly useful for hackers and adversar
 # Chapter Overview
 * Chapter 1: Go Fundamentals and Concepts
 * Chapter 2: TCP and Go: Scanners and Proxies
-* * Chapter 3: HTTP Clients: Remote Interaction with Tools
+* Chapter 3: HTTP Clients: Remote Interaction with Tools
 * Chapter 4: HTTP Servers: Routing and Middleware
 * Chapter 5: Exploiting DNS: Recon and More
 * Chapter 6: SMB and NTLM: A Peek Down the Rabbit Hole
