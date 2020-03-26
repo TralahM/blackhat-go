@@ -2,7 +2,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Organization](https://img.shields.io/badge/Org-TralahTek-blue.svg)](https://github.com/TralahTek)
 [![made-with-GO](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](https://www.python.org/)
-[![HitCount](http://hits.dwyl.io/TralahM/blackhat-go.svg)](http://dwyl.io/TralahM/blackhat-go)
 
 We are hackers and coders - in that order.
 
