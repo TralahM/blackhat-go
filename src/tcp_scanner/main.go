@@ -8,7 +8,7 @@ import (
 
 func worker(ports, results chan int) {
 	for p := range ports {
-		addr := fmt.Sprintf("scanme.nmap.org:%d", p)
+		addr := fmt.Sprintf("0.0.0.0:%d", p)
 		conn, err := net.Dial("tcp", addr)
 		if err != nil {
 			results <- 0
@@ -30,7 +30,7 @@ func main() {
 			ports <- i
 		}
 	}()
-	for i := 0; 1 < 1024; i++ {
+	for i := 1; 1 < 1024; i++ {
 		port := <-results
 		if port != 0 {
 			openports = append(openports, port)
@@ -40,6 +40,6 @@ func main() {
 	close(results)
 	sort.Ints(openports)
 	for _, port := range openports {
-		fmt.Println("%d OPEN\n", port)
+		fmt.Println("port  open\n", port)
 	}
 }
