@@ -1,2 +1,3 @@
 *.js linguist-detectable=false
+*.go linguist-detectable=true
 *.css linguist-detectable=false
