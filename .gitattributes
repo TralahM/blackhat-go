@@ -1,3 +1,7 @@
-*.js linguist-detectable=false
-*.go linguist-detectable=true
+
+docs/* linguist-documentation
+
 *.css linguist-detectable=false
+
+*.html linguist-detectable=false
+
