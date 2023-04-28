@@ -48,3 +48,18 @@ Many of the language's features are particularly useful for hackers and adversar
 * Chapter 12: Windows: System Interaction and Analysis
 * Chapter 13: Steganography: Hiding Data
 * Chapter 14: Command and Control: Building a RAT
+
+
+
+
+# Legal Notice
+This repository uses third-party APIs and AI models and is not associated with or endorsed by the API providers or the original developers of the models. This project is intended for educational purposes only.
+
+Please note the following:
+
+Disclaimer: The APIs, services, and trademarks mentioned in this repository belong to their respective owners. This project is not claiming any right over them.
+
+Responsibility: The author of this repository is not responsible for any consequences arising from the use or misuse of this repository or the content provided by the third-party APIs and any damage or losses caused by users' actions.
+
+Educational Purposes Only: This repository and its content are provided strictly for educational purposes. By using the information and code provided, users acknowledge that they are using the APIs and models at their own risk and agree to comply with any applicable laws and regulations.
+
