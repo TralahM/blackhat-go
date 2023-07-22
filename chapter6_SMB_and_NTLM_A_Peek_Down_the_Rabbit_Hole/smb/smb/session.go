@@ -13,9 +13,9 @@ import (
 	"net"
 	"runtime/debug"
 
-	"github.com/bhg/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/gss"
-	"github.com/bhg/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/ntlmssp"
-	"github.com/bhg/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/smb/encoder"
+	"github.com/tralahm/blackhat-go/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/gss"
+	"github.com/tralahm/blackhat-go/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/ntlmssp"
+	"github.com/tralahm/blackhat-go/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/smb/encoder"
 )
 
 type Session struct {

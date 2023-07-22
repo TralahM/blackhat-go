@@ -15,4 +15,7 @@ find -type f -name "*.go" -exec sed -i 's/ch-12/chapter12_Windows_System_Interac
 find -type f -name "*.go" -exec sed -i 's/ch-13/chapter13_Steganography_Hiding_Data/g' {} \;
 find -type f -name "*.go" -exec sed -i 's/ch-14/chapter14_Command_and_Control_Building_a_RAT/g' {} \;
 
+find -type f -name "*.go" -exec sed -i 's/TralahM/tralahm/g' {} \;
+find -type f -name "*.go" -exec sed -i 's/github.com\/bhg/github.com\/tralahm\/blackhat-go/g' {} \;
+
 git status

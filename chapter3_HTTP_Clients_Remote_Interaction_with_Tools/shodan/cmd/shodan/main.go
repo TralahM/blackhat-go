@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bhg/chapter3_HTTP_Clients_Remote_Interaction_with_Tools/shodan/shodan"
+	"github.com/tralahm/blackhat-go/chapter3_HTTP_Clients_Remote_Interaction_with_Tools/shodan/shodan"
 )
 
 func main() {

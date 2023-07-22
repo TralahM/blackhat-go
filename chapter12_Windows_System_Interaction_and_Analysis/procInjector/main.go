@@ -7,8 +7,8 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/TralahM/blackhat-go/chapter12_Windows_System_Interaction_and_Analysis/procInjector/utils"
-	"github.com/TralahM/blackhat-go/chapter12_Windows_System_Interaction_and_Analysis/procInjector/winsys"
+	"github.com/tralahm/blackhat-go/chapter12_Windows_System_Interaction_and_Analysis/procInjector/utils"
+	"github.com/tralahm/blackhat-go/chapter12_Windows_System_Interaction_and_Analysis/procInjector/winsys"
 )
 
 var opts struct {

@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bhg/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/smb"
+	"github.com/tralahm/blackhat-go/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/smb"
 )
 
 func main() {

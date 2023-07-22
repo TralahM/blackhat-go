@@ -7,7 +7,7 @@ import (
 	"os"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/bhg/chapter7_Databases_and_Filesystems_Pilfering_and_Abusing/db/dbminer"
+	"github.com/tralahm/blackhat-go/chapter7_Databases_and_Filesystems_Pilfering_and_Abusing/db/dbminer"
 )
 
 type MySQLMiner struct {

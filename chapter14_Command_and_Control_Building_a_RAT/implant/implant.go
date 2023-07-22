@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/TralahM/blackhat-go/chapter14_Command_and_Control_Building_a_RAT/grpcapi"
+	"github.com/tralahm/blackhat-go/chapter14_Command_and_Control_Building_a_RAT/grpcapi"
 	"google.golang.org/grpc"
 )
 

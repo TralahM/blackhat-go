@@ -8,7 +8,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/TralahM/blackhat-go/chapter13_Steganography_Hiding_Data/imgInject/models"
+	"github.com/tralahm/blackhat-go/chapter13_Steganography_Hiding_Data/imgInject/models"
 )
 
 //WriteData writes new data to offset
