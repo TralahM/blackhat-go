@@ -4,7 +4,7 @@ import (
 	"encoding/asn1"
 	"log"
 
-	"github.com/bhg/ch-6/smb/smb/encoder"
+	"github.com/bhg/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/smb/encoder"
 )
 
 const SpnegoOid = "1.3.6.1.5.5.2"

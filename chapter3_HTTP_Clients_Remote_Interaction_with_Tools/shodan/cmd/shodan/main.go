@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bhg/ch-3/shodan/shodan"
+	"github.com/bhg/chapter3_HTTP_Clients_Remote_Interaction_with_Tools/shodan/shodan"
 )
 
 func main() {

@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/bhg/ch-3/bing-metadata/metadata"
+	"github.com/bhg/chapter3_HTTP_Clients_Remote_Interaction_with_Tools/bing-metadata/metadata"
 	"github.com/PuerkitoBio/goquery"
 )
 

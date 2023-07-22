@@ -7,7 +7,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/blackhat-go/bhg/ch-14/grpcapi"
+	"github.com/TralahM/blackhat-go/chapter14_Command_and_Control_Building_a_RAT/grpcapi"
 	"google.golang.org/grpc"
 )
 

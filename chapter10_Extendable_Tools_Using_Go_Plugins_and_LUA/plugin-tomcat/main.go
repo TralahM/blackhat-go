@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/bhg/ch-10/plugin-core/scanner"
+	"github.com/bhg/chapter10_Extendable_Tools_Using_Go_Plugins_and_LUA/plugin-core/scanner"
 )
 
 var Users = []string{"admin", "manager", "tomcat"}

@@ -6,9 +6,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/blackhat-go/bhg/ch-13/imgInject/models"
-	"github.com/blackhat-go/bhg/ch-13/imgInject/pnglib"
-	"github.com/blackhat-go/bhg/ch-13/imgInject/utils"
+	"github.com/TralahM/blackhat-go/chapter13_Steganography_Hiding_Data/imgInject/models"
+	"github.com/TralahM/blackhat-go/chapter13_Steganography_Hiding_Data/imgInject/pnglib"
+	"github.com/TralahM/blackhat-go/chapter13_Steganography_Hiding_Data/imgInject/utils"
 	"github.com/spf13/pflag"
 )
 

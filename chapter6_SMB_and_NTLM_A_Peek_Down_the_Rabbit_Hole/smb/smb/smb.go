@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/bhg/ch-6/smb/gss"
-	"github.com/bhg/ch-6/smb/ntlmssp"
-	"github.com/bhg/ch-6/smb/smb/encoder"
+	"github.com/bhg/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/gss"
+	"github.com/bhg/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/ntlmssp"
+	"github.com/bhg/chapter6_SMB_and_NTLM_A_Peek_Down_the_Rabbit_Hole/smb/smb/encoder"
 )
 
 const ProtocolSmb = "\xFFSMB"
