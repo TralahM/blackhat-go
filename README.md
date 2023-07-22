@@ -30,38 +30,7 @@ Many of the language's features are particularly useful for hackers and adversar
 1. Large Binary size
 2. Very Verbose
 
-# Chapter Overview
-<<<<<<< HEAD
-* Chapter 1: Go Fundamentals and Concepts
-* Chapter 2: TCP and Go: Scanners and Proxies
-* Chapter 3: HTTP Clients: Remote Interaction with Tools
-* Chapter 4: HTTP Servers: Routing and Middleware
-* Chapter 5: Exploiting DNS: Recon and More
-* Chapter 6: SMB and NTLM: A Peek Down the Rabbit Hole
-* Chapter 7: Databases and Filesystems: Pilfering and Abusing
-* Chapter 8: Packet Processing: Living on the Wire
-* Chapter 9: Exploit Code: Writing and Porting
-* Chapter 10: Extending Tools: Using Go Plugins and Lua
-* Chapter 11: Cryptography: Implementing and Attacking
-* Chapter 12: Windows: System Interaction and Analysis
-* Chapter 13: Steganography: Hiding Data
-* Chapter 14: Command and Control: Building a RAT
 
-
-
-
-# Legal Notice
-This repository uses third-party APIs and AI models and is not associated with or endorsed by the API providers or the original developers of the models. This project is intended for educational purposes only.
-
-Please note the following:
-
-Disclaimer: The APIs, services, and trademarks mentioned in this repository belong to their respective owners. This project is not claiming any right over them.
-
-Responsibility: The author of this repository is not responsible for any consequences arising from the use or misuse of this repository or the content provided by the third-party APIs and any damage or losses caused by users' actions.
-
-Educational Purposes Only: This repository and its content are provided strictly for educational purposes. By using the information and code provided, users acknowledge that they are using the APIs and models at their own risk and agree to comply with any applicable laws and regulations.
-
-=======
 * [Chapter 2: TCP and Go: Scanners and Proxies](chapter2_TCP_and_Go_Scanners_and_Proxies)
 * [Chapter 3: HTTP Clients: Remote Interaction with Tools](chapter3_HTTP_Clients_Remote_Interaction_with_Tools)
 * [Chapter 4: HTTP Servers: Routing and Middleware](chapter4_HTTP_Servers_Routing_and_Middleware)
@@ -77,13 +46,20 @@ Educational Purposes Only: This repository and its content are provided strictly
 * [Chapter 14: Command and Control: Building a RAT](chapter14_Command_and_Control_Building_a_RAT)
 
 
+# Legal Notice
+This repository uses third-party APIs and AI models and is not associated with or endorsed by the API providers or the original developers of the models. This project is intended for educational purposes only.
+
 Please note the following:
 
-*Disclaimer*: Any APIs, services, and trademarks mentioned in this repository belong to their respective owners. This project is not claiming any right over them.
+**Disclaimer**: The APIs, services, and trademarks mentioned in this repository belong to their respective owners. This project is not claiming any right over them.
+
+**Responsibility**: The author of this repository is not responsible for any consequences arising from the use or misuse of this repository or the content provided by the third-party APIs and any damage or losses caused by users' actions.
+
+**Educational Purposes Only**: This repository and its content are provided strictly for educational purposes. By using the information and code provided, users acknowledge that they are using the APIs and models at their own risk and agree to comply with any applicable laws and regulations.
+
 
 [![TralahM](https://img.shields.io/badge/Engineer-TralahM-blue.svg?style=for-the-badge)](https://github.com/TralahM)
 
 [![TralahM](https://img.shields.io/badge/Maintainer-TralahM-green.svg?style=for-the-badge)](https://github.com/TralahM)
 
 [![Organization](https://img.shields.io/badge/Org-TralahTek-blue.svg)](https://github.com/TralahTek)
->>>>>>> 3b1f28b (update readme)
