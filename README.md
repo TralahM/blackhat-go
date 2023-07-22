@@ -30,6 +30,7 @@ Many of the language's features are particularly useful for hackers and adversar
 1. Large Binary size
 2. Very Verbose
 
+## Chapter Overview
 
 * [Chapter 2: TCP and Go: Scanners and Proxies](chapter2_TCP_and_Go_Scanners_and_Proxies)
 * [Chapter 3: HTTP Clients: Remote Interaction with Tools](chapter3_HTTP_Clients_Remote_Interaction_with_Tools)
