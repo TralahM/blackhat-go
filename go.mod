@@ -20,7 +20,7 @@ require (
 	github.com/yuin/gopher-lua v1.1.0
 	golang.org/x/crypto v0.11.0
 	golang.org/x/net v0.12.0
-	google.golang.org/grpc v1.56.2
+	google.golang.org/grpc v1.56.3
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 	gopkg.in/vmihailenco/msgpack.v2 v2.9.2
 )
